@@ -21,16 +21,17 @@ The algorithm combines:
 - Optional secure key-sharing process
 - Educational implementation in Python
 
-## Disclaimer
+## Security Notice
 
-This project was developed for educational and research purposes only.
-RSN has not undergone professional cryptanalysis and should not be used to protect real-world sensitive information.
+RSN is an educational cryptographic design created as part of a university Cryptography & Data Security project. The algorithm has not been independently reviewed or cryptanalyzed and should not be used in production environments or for protecting sensitive information.
+
+This project was developed for educational and research purposes only. RSN has not undergone professional cryptanalysis and should not be used to protect real-world sensitive information.
 
 ## Repository Structure
 
-- `rsn_algorithm.py` - Main implementation
-- `docs/` - Project report and proposal
-- `examples/` - Sample executions
+- `RSN_Alg.py` - Main implementation
+- `RSN_Algorithm_Proposal.pdf` - Project proposal
+- `RSN_Algorithm.pdf` - Project report
 
 ## Author
 
